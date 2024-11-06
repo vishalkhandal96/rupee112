@@ -31,7 +31,7 @@
                             <a class="nav-link" href="contact-us.php">Contact Us</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="Terms-and-Conditions.php">Terms & Conditions</a>
+                            <a class="nav-link" href="terms-and-conditions.php">Terms & Conditions</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="privacy-policy.php">Privacy Policy</a>

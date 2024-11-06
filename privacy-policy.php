@@ -45,3 +45,8 @@ include "elements/hero.php";
 
     <p class="fs-6 fw-bold">We value your privacy and strive to address any issues promptly and effectively.</p>
 </div>
+
+
+<?php
+include "elements/footer.php";
+?>

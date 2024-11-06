@@ -29,3 +29,7 @@ include "elements/hero.php";
 
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus, eveniet.</p>
 </div>
+
+<?php
+include "elements/footer.php";
+?>
