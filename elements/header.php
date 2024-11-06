@@ -30,8 +30,14 @@
                         <li class="nav-item">
                             <a class="nav-link" href="contact-us.php">Contact Us</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="Terms-and-Conditions.php">Terms & Conditions</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="privacy-policy.php">Privacy Policy</a>
+                        </li>
                     </ul>
-                    <button class="btn btn-primary d-flex" type="button">My Account</button>
+                    <a class="btn btn-primary" href="apply-now.php">Apply Now</a>
                 </div>
             </div>
         </nav>
