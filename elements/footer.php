@@ -1,4 +1,4 @@
-<section class="bg-primary py-5 bg-opacity-75">
+<section class="bg-primary py-3 bg-opacity-75">
     <div class="container">
         <div class="row">
             <h2 class="fs-3">Contact information</h2>
@@ -14,52 +14,16 @@
             </div>
         </div>
         <hr>
-        <div class="row">
-            <div class="col mb-3">
-                <h5>Section</h5>
-                <ul class="nav flex-column">
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Home</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Features</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Pricing</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">FAQs</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">About</a></li>
-                </ul>
-            </div>
 
-            <div class="col mb-3">
-                <h5>Section</h5>
-                <ul class="nav flex-column">
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Home</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Features</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Pricing</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">FAQs</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">About</a></li>
-                </ul>
-            </div>
-
-            <div class="col mb-3">
-                <h5>Section</h5>
-                <ul class="nav flex-column">
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Home</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Features</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Pricing</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">FAQs</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">About</a></li>
-                </ul>
-            </div>
-            <div class="col mb-3">
-                <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
-                    <li class="ms-3"><a class="text-body-secondary" href="#"><svg class="bi" width="24" height="24">
-                                <use xlink:href="#twitter" />
-                            </svg></a></li>
-                    <li class="ms-3"><a class="text-body-secondary" href="#"><svg class="bi" width="24" height="24">
-                                <use xlink:href="#instagram" />
-                            </svg></a></li>
-                    <li class="ms-3"><a class="text-body-secondary" href="#"><svg class="bi" width="24" height="24">
-                                <use xlink:href="#facebook" />
-                            </svg></a></li>
-                </ul>
-            </div>
+        <div class="row d-flex flex-wrap justify-content-between align-items-center">
+            <p class="col-md-6 mb-0 text-body-secondary">&copy; 2024 Company, Inc</p>
+            <ul class="nav col-md-6 justify-content-end">
+                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
+                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">About Us</a></li>
+                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Contact Us</a></li>
+                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Terms and Conditions</a></li>
+                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Privacy Policy</a></li>
+            </ul>
         </div>
     </div>
 </section>
